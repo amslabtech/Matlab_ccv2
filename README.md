@@ -57,7 +57,7 @@
 - omni.m
   - オムニホイルの質量
 
-###システム全体
+### システム全体
 - cartpole_init_pose
   - 台車の初期値（デフォルト：[-(ground.w/2-1) tire.r+ground.l/2 0]）
 
